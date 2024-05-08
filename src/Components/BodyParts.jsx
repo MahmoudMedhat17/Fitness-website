@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import { Stack, Typography } from "@mui/material";
 import { StateContext } from "../Pages/Home";
 import { useContext } from "react";

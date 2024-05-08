@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import BodyParts from "./BodyParts";
 import { Box, Typography } from "@mui/material";
 import { ScrollMenu, VisibilityContext } from "react-horizontal-scrolling-menu";

@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import { Box, Typography, Stack } from "@mui/material";
 
 

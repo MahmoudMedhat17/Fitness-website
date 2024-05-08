@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import { Stack, Typography, Button } from "@mui/material";
 import bodyPartImg from "../assets/icons/body-part.png";
 import EquipmentImg from "../assets/icons/equipment.png";

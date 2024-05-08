@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import "../Components/init";
 import { Button, Stack, Typography } from "@mui/material";
 import { Link } from "react-router-dom";

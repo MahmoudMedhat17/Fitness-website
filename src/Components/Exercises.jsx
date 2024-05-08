@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import { Box, Stack, Typography, Pagination } from "@mui/material";
 import { useContext, useState, useEffect } from "react";
 import { StateContext } from "../Pages/Home";
